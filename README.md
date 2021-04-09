@@ -20,7 +20,7 @@ To access this project on your local files, you can clone it using these steps
 1. Bootstrap
 1. Git
 ### Live Site
-View [live](https://mikmondi.github.io/My-Portfolio/)
+View [live](https://mikmondi.github.io/Ghanian-day-names-calculator/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 
