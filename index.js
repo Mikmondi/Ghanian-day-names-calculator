@@ -10,7 +10,7 @@ function getNameFromDate(dateString,gender){
         document.getElementById("displayName").innerHTML = "Your Akan Name is " + femaleNames[dayOfTheWeek];
     }
     else{
-        "Error Check details entered!";
+        document.getElementById("displayName").innerHTML = "Error Check details entered!";
     }
 }
 
