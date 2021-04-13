@@ -1,4 +1,4 @@
-# Ghanian day names Calculator
+# Ghanian Day Names Calculator
 ## Author
 Michael Oduor
 ## Description
@@ -13,6 +13,17 @@ To access this project on your local files, you can clone it using these steps
 1. Use this command to clone `$ git clone https://github.com/Mikmondi/Ghanian-day-names-calculator.git
 1. This will clone the repositoty into your local folder
 1. __Enjoy :)__
+### BDD
+Title: Ghanian Day Names Calculator.
+
+As the Developer,
+I want the Application to display a user's Akan name when the enter date button is clicked on the landing page.
+ Given that a user has entered their date of birth in the format:mm/dd/yyyy
+and they have entered their gender as either male or female
+when they enter these details on the prompt after pressing the enter date born button
+then the Akan name should be displayed in the box above the enter date born button
+and if the information entered is incorrect then an error message should be displayed in the box.
+
 ### Technologies Used
 1. HTML
 1. CSS
