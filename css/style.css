@@ -21,7 +21,9 @@ body{
     text-align: center;
     font-size: x-large;
     background-color: #19415cf3;
+    border: 10px solid rgb(5, 78, 78);
     border-radius: 5px;
     color: aliceblue;
+    margin-top: 2%;
 
 }
