@@ -13,3 +13,9 @@ function getNameFromDate(dateBorn,gender){
         document.getElementById(displayName).innerHTML = "Error check that you've entered your details correctly";
     }
 }
+
+function getDayBorn(){
+    var dateBorn = prompt("Please enter your date of birth:mm/dd/yy");
+    var gender = prompt("What is your Gender, female or male?");
+    getNameFromDate(dateBorn,gender);
+}
